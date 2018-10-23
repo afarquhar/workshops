@@ -1,0 +1,16 @@
+explain packages + libraries, how to install + load
+how to get help in command line
+how to load/write data
+
+
+load the titanic dataset
+explain data.frames vs tibbles
+
+
+https://www.datacamp.com/community/tutorials/tidyverse-tutorial-r
+
+dplyr
+tidyr
+lubridate
+stringr
+readr
